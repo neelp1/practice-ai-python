@@ -1,0 +1,4 @@
+venv/
+venv-b/
+*.png
+.ipynb_checkpoints/
